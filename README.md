@@ -1,2 +1,2 @@
 # DPDMWS1920
-Studienarbeit Design und Produktion 
+Studienarbeit Design und Produktion digitaler Medien
